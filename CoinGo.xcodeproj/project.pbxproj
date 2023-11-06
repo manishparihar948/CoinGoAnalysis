@@ -13,6 +13,8 @@
 		CD2A597D2AF528AA00EF8907 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2A597C2AF528AA00EF8907 /* Preview Assets.xcassets */; };
 		CD2A59872AF528EB00EF8907 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A59862AF528EB00EF8907 /* Color.swift */; };
 		CD2A598E2AF52B4B00EF8907 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A598D2AF52B4B00EF8907 /* HomeView.swift */; };
+		CD2A59912AF7A6AF00EF8907 /* CircularButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A59902AF7A6AF00EF8907 /* CircularButtonView.swift */; };
+		CD2A59942AF7AD0900EF8907 /* CircularButtonAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A59932AF7AD0900EF8907 /* CircularButtonAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		CD2A597C2AF528AA00EF8907 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CD2A59862AF528EB00EF8907 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		CD2A598D2AF52B4B00EF8907 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		CD2A59902AF7A6AF00EF8907 /* CircularButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButtonView.swift; sourceTree = "<group>"; };
+		CD2A59932AF7AD0900EF8907 /* CircularButtonAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButtonAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +88,7 @@
 		CD2A59842AF528C400EF8907 /* Base */ = {
 			isa = PBXGroup;
 			children = (
+				CD2A598F2AF7A69B00EF8907 /* Components */,
 				CD2A598C2AF52B3300EF8907 /* API */,
 				CD2A59852AF528CE00EF8907 /* Extensions */,
 			);
@@ -135,6 +140,23 @@
 			children = (
 			);
 			path = API;
+			sourceTree = "<group>";
+		};
+		CD2A598F2AF7A69B00EF8907 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				CD2A59922AF7ACEC00EF8907 /* CircleButton */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		CD2A59922AF7ACEC00EF8907 /* CircleButton */ = {
+			isa = PBXGroup;
+			children = (
+				CD2A59902AF7A6AF00EF8907 /* CircularButtonView.swift */,
+				CD2A59932AF7AD0900EF8907 /* CircularButtonAnimationView.swift */,
+			);
+			path = CircleButton;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,10 +229,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD2A59942AF7AD0900EF8907 /* CircularButtonAnimationView.swift in Sources */,
 				CD2A59782AF528A200EF8907 /* ContentView.swift in Sources */,
 				CD2A598E2AF52B4B00EF8907 /* HomeView.swift in Sources */,
 				CD2A59762AF528A200EF8907 /* CoinGoApp.swift in Sources */,
 				CD2A59872AF528EB00EF8907 /* Color.swift in Sources */,
+				CD2A59912AF7A6AF00EF8907 /* CircularButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,8 +374,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -379,8 +403,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
