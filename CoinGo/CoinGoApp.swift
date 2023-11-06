@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct CoinGoApp: App {
+    
+    @StateObject var vm = HomeViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            NavigationStack {
+                HomeView()
+                    .navigationBarBackButtonHidden()
+            }
+            .environmentObject(vm)
         }
     }
 }
