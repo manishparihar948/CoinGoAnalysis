@@ -12,6 +12,9 @@
 		CD2883862AF8CF42007AA547 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2883852AF8CF42007AA547 /* PreviewProvider.swift */; };
 		CD2883882AF8D578007AA547 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2883872AF8D578007AA547 /* Double.swift */; };
 		CD28838A2AF8D9FD007AA547 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2883892AF8D9FD007AA547 /* HomeViewModel.swift */; };
+		CD28838D2AF90651007AA547 /* CoinDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD28838C2AF90651007AA547 /* CoinDataService.swift */; };
+		CD28838F2AFACE69007AA547 /* NetworkingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD28838E2AFACE69007AA547 /* NetworkingManager.swift */; };
+		CD2883912AFACF3F007AA547 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2883902AFACF3F007AA547 /* Endpoint.swift */; };
 		CD2A59762AF528A200EF8907 /* CoinGoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A59752AF528A200EF8907 /* CoinGoApp.swift */; };
 		CD2A59782AF528A200EF8907 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A59772AF528A200EF8907 /* ContentView.swift */; };
 		CD2A597A2AF528AA00EF8907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2A59792AF528AA00EF8907 /* Assets.xcassets */; };
@@ -28,6 +31,9 @@
 		CD2883852AF8CF42007AA547 /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
 		CD2883872AF8D578007AA547 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 		CD2883892AF8D9FD007AA547 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		CD28838C2AF90651007AA547 /* CoinDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinDataService.swift; sourceTree = "<group>"; };
+		CD28838E2AFACE69007AA547 /* NetworkingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingManager.swift; sourceTree = "<group>"; };
+		CD2883902AFACF3F007AA547 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
 		CD2A59722AF528A200EF8907 /* CoinGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD2A59752AF528A200EF8907 /* CoinGoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinGoApp.swift; sourceTree = "<group>"; };
 		CD2A59772AF528A200EF8907 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,6 +56,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CD28838B2AF90632007AA547 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				CD28838C2AF90651007AA547 /* CoinDataService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		CD2A59692AF528A200EF8907 = {
 			isa = PBXGroup;
 			children = (
@@ -69,6 +83,7 @@
 		CD2A59742AF528A200EF8907 /* CoinGo */ = {
 			isa = PBXGroup;
 			children = (
+				CD28838B2AF90632007AA547 /* Services */,
 				CD2A59842AF528C400EF8907 /* Base */,
 				CD2A59832AF528BA00EF8907 /* Feature */,
 				CD2A59752AF528A200EF8907 /* CoinGoApp.swift */,
@@ -153,6 +168,8 @@
 		CD2A598C2AF52B3300EF8907 /* API */ = {
 			isa = PBXGroup;
 			children = (
+				CD28838E2AFACE69007AA547 /* NetworkingManager.swift */,
+				CD2883902AFACF3F007AA547 /* Endpoint.swift */,
 			);
 			path = API;
 			sourceTree = "<group>";
@@ -244,6 +261,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD2883912AFACF3F007AA547 /* Endpoint.swift in Sources */,
+				CD28838D2AF90651007AA547 /* CoinDataService.swift in Sources */,
 				CD2883842AF8CED8007AA547 /* CoinRowView.swift in Sources */,
 				CD28838A2AF8D9FD007AA547 /* HomeViewModel.swift in Sources */,
 				CD2A59942AF7AD0900EF8907 /* CircularButtonAnimationView.swift in Sources */,
@@ -251,6 +270,7 @@
 				CD2A598E2AF52B4B00EF8907 /* HomeView.swift in Sources */,
 				CD2A59762AF528A200EF8907 /* CoinGoApp.swift in Sources */,
 				CD2A59872AF528EB00EF8907 /* Color.swift in Sources */,
+				CD28838F2AFACE69007AA547 /* NetworkingManager.swift in Sources */,
 				CD2A59912AF7A6AF00EF8907 /* CircularButtonView.swift in Sources */,
 				CD2883862AF8CF42007AA547 /* PreviewProvider.swift in Sources */,
 				CD2883882AF8D578007AA547 /* Double.swift in Sources */,
