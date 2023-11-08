@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE05CCBC-DD1C-4B7E-ABF4-AB9D88332BCF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66F60D01-DCD0-4B0F-B353-B31ABC209F09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66F60D01-DCD0-4B0F-B353-B31ABC209F09 - 458686bef8919033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "278">
+               </Location>
+               <Location
+                  uuid = "66F60D01-DCD0-4B0F-B353-B31ABC209F09 - 458686bef8919033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "281">
+               </Location>
+               <Location
+                  uuid = "66F60D01-DCD0-4B0F-B353-B31ABC209F09 - 458686bef8919033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "305">
+               </Location>
+               <Location
+                  uuid = "66F60D01-DCD0-4B0F-B353-B31ABC209F09 - 458686bef8919033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 458686bef891907d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - cc4408d36c514df7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 14148e7024240879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - ccab9214ce0dc47b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 458686bef891905c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - cc4408d36c514dd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 14148e7024240858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - ccab9214ce0dc45a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 458686bef891905c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - cc4408d36c514dd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 14148e7024240858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - ccab9214ce0dc45a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 458686bef891905c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 14148e7024240858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - ccab9214ce0dc45a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 458686bef89190bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - cc4408d36c514d35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - 14148e70242408bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "CA25B64D-65EF-4D8D-8F2B-C086A15C8AD7 - ccab9214ce0dc4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4731A4A-C8A3-4C25-BE5C-6BD2508AF016"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4731A4A-C8A3-4C25-BE5C-6BD2508AF016 - 14148e7024240b2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "4161">
+               </Location>
+               <Location
+                  uuid = "F4731A4A-C8A3-4C25-BE5C-6BD2508AF016 - ccab9214ce0dc72d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "F4731A4A-C8A3-4C25-BE5C-6BD2508AF016 - 14148e7024240acc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2951">
+               </Location>
+               <Location
+                  uuid = "F4731A4A-C8A3-4C25-BE5C-6BD2508AF016 - 14148e7024240acc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2909">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3978181E-EB6D-4C3D-92D0-1B1396CF81C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3978181E-EB6D-4C3D-92D0-1B1396CF81C4 - 14148e7024240a27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3903">
+               </Location>
+               <Location
+                  uuid = "3978181E-EB6D-4C3D-92D0-1B1396CF81C4 - 14148e7024240a27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1962">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchAllCoins()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 8e497db12f5cf4dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 9eca5c5b05778c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 4e11059888cda8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 51c5d98c5582f6d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 4e11059888cda8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 8e497db12f5cf43d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 9eca5c5b0577828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 4e11059888cda83f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "67C77775-DB3D-4C59-A54E-3F49FDD5AE13 - 51c5d98c5582f638"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.HomeViewModel.fetchAllCoins() async -&gt; ()"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F128A48-48B5-4929-AEA4-241ED82B6A5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F128A48-48B5-4929-AEA4-241ED82B6A5E - 14148e7024240940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1835">
+               </Location>
+               <Location
+                  uuid = "0F128A48-48B5-4929-AEA4-241ED82B6A5E - 14148e7024240940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1285">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "098BAD12-DC19-4A97-BF54-E2DD023317A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "098BAD12-DC19-4A97-BF54-E2DD023317A7 - 14148e70242408fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1115">
+               </Location>
+               <Location
+                  uuid = "098BAD12-DC19-4A97-BF54-E2DD023317A7 - 14148e70242408fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9877A74-799A-4B19-9389-068D7886A3F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Base/API/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "request(_:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9877A74-799A-4B19-9389-068D7886A3F6 - 14148e7024240bd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4251">
+               </Location>
+               <Location
+                  uuid = "E9877A74-799A-4B19-9389-068D7886A3F6 - ccab9214ce0dc7d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "351">
+               </Location>
+               <Location
+                  uuid = "E9877A74-799A-4B19-9389-068D7886A3F6 - 14148e7024240bd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CoinGo.NetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: CoinGo.Endpoint, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Base/API/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C43835F-4DD3-4898-9156-E94136326AD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGo/Feature/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0C43835F-4DD3-4898-9156-E94136326AD0 - 63cbad47288de76d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of CoinGo.HomeView.backGround : some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Foundation.LocalizedError, &#x3c4;_1_1: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, error: Swift.Optional&lt;&#x3c4;_1_0&gt;, actions: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in CoinGo.HomeView.body.getter : some"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "0C43835F-4DD3-4898-9156-E94136326AD0 - 9e357cca0c1cd786"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of CoinGo.HomeView.backGround : some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Foundation.LocalizedError, &#x3c4;_1_1: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, error: Swift.Optional&lt;&#x3c4;_1_0&gt;, actions: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in CoinGo.HomeView.body.getter : some"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "0C43835F-4DD3-4898-9156-E94136326AD0 - f2848a39abea256f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of CoinGo.HomeView.backGround : some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Foundation.LocalizedError, &#x3c4;_1_1: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, error: Swift.Optional&lt;&#x3c4;_1_0&gt;, actions: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in CoinGo.HomeView.body.getter : some"
+                  moduleName = "CoinGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishparihar/Desktop/CodeBox/IOS_Playground/CoinGoAnalysis/CoinGo/CoinGo/Feature/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

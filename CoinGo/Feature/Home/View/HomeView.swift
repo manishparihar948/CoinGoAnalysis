@@ -12,32 +12,52 @@ struct HomeView: View {
     @EnvironmentObject private var vm: HomeViewModel
     @State private var showPortfolio: Bool = false
     @State private var showPortfolioView: Bool = false // new sheet
-    
+    @State private var hasAppeared = false
+
     var body: some View {
         
         ZStack {
             // Background Layer
             backGround
             
-            // Content Layer
-            VStack {
-                // top view
-                navigationHeader
-                
-                columnTitles
-                
-                if !showPortfolio {
-                    // second Button
-                    allCoinList
-                        .transition(.move(edge: .leading))
+            if vm.isLoading {
+                ProgressView()
+            } else {
+                // Content Layer
+                VStack {
+                    // top view
+                    navigationHeader
+                    
+                    columnTitles
+                    
+                    if !showPortfolio {
+                        // second Button
+                        allCoinList
+                            .transition(.move(edge: .leading))
+                    }
+                    
+                    if showPortfolio {
+                        portfolioCoinList
+                            .transition(.move(edge: .trailing))
+                    }
+                    
+                    Spacer(minLength: 0)
                 }
-                
-                if showPortfolio {
-                    portfolioCoinList
-                        .transition(.move(edge: .trailing))
+                .onAppear {
+                    Task {
+                        if !hasAppeared {
+                            await vm.fetchAllCoins()
+                            hasAppeared = true
+                        }
+                    }
                 }
-                
-                Spacer(minLength: 0)
+                .alert(isPresented: $vm.hasError, error:vm.error) {
+                    Button("Retry") {
+                        Task {
+                            await vm.fetchAllCoins()
+                        }
+                    }
+                }
             }
         }
     }
@@ -144,7 +164,6 @@ extension HomeView {
             }
             Text("Price")
                 .frame(width: UIScreen.main.bounds.width/3.5, alignment: .trailing)
-
         }
         .font(.caption)
         .foregroundStyle(Color.theme.secondaryText)
